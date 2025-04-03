@@ -1,6 +1,6 @@
 🌍 Projeto de Plataforma de Viagens e Turismo
 Descrição do Projeto
-Este é um projeto desenvolvido como um portfólio para simular uma plataforma de viagens e pacotes turísticos, oferecendo ao usuário uma experiência interativa e intuitiva. Com design responsivo e funcionalidades completas, é ideal para demonstrar suas habilidades de desenvolvimento web.
+Este é um projeto desenvolvido como um portfólio para simular uma plataforma de viagens e pacotes turísticos, oferecendo ao usuário uma experiência interativa e intuitiva. Com design responsivo e funcionalidades completas, é ideal para demonstrar minhas habilidades de desenvolvimento web.
 
 Funcionalidades
 - Exibição de Destinos: Apresente destinos turísticos com descrições detalhadas e imagens ilustrativas.
